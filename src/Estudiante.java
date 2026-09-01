@@ -3,7 +3,7 @@
  * Representa a un estudiante con su nombre y sus notas académicas,
  * aplicando encapsulamiento y validaciones de seguridad sobre las notas.
  *
- * @author Nombre Apellido - Cédula
+ * @author Nombre Norlan Gago - 20-53-8721
  */
 public class Estudiante {
 
