@@ -3,7 +3,7 @@
  * Punto de entrada del programa. Realiza la evaluación académica exprés
  * de un estudiante de prueba, mostrando su promedio y su estado final.
  *
- * @author Nombre Apellido - Cédula
+ * @author Nombre Norlan Gago - 20-53-8721
  */
 public class Main {
 
